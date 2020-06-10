@@ -1,2 +1,2 @@
-# Final-assignment-R-programming
+# Final-R-programming
 JHU
